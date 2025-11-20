@@ -47,4 +47,10 @@ You are acting as a Senior iOS Engineer pair-programming with the user. Your goa
 *   **Ignoring Errors**: Never use `try?` or `try!` without a comment explaining *why* failure is acceptable.
 
 ---
+## 6. Evolving These Guidelines
+
+*   **Suggest Changes**: If you implement a new architectural pattern or find an instruction that is no longer relevant, *propose* an update to this file. Do not change it without user approval.
+*   **Capture Wisdom**: If you solve a complex problem, suggest adding a brief guideline here to help future agents.
+
+---
 *Use these guidelines to make decisions. If a user request conflicts with these guidelines, politely point it out and suggest the better path.*
